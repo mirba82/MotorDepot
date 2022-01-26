@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "name": "Renault Magnum"
+    },
+    "driver": {
+      "id": 0,
+      "name": " Sadyr"
+    },
+    "state": {
+      "base": "On base"
+    }
+  },
+  {
+    "id": 2,
+    "name": {
+      "name": "Volvo"
+    },
+    "driver": {
+      "id": 0,
+      "name": " Kamchy"
+    },
+    "state": {
+      "base": "On base"
+    }
+  },
+  {
+    "id": 3,
+    "name": {
+      "name": "DAF XT"
+    },
+    "driver": {
+      "id": 0,
+      "name": " Kurmankul"
+    },
+    "state": {
+      "base": "On base"
+    }
+  }
+]
